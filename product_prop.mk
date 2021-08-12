@@ -64,7 +64,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # PPUI Props
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.ppui.device_name=Gauguin\
-    ro.ppui.version=3.7 \
-    ro.ppui.version_code=Ragnarok \
+    ro.ppui.version=3.8 \
+    ro.ppui.version_code=Hikaru \
     ro.ppui.is_official=true \
     ro.ppui.maintainer_name=Ash Ketchum
