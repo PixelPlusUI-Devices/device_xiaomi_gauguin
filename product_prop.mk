@@ -64,7 +64,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # PPUI Props
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.ppui.device_name=Gauguin\
-    ro.ppui.version=3.9 \
-    ro.ppui.version_code=Eternal \
+    ro.ppui.version=3.11 \
+    ro.ppui.version_code=Ignite \
     ro.ppui.is_official=true \
     ro.ppui.maintainer_name=Yasin
